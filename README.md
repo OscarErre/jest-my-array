@@ -46,6 +46,13 @@ Run tests:
 ```
 npm run test
 ```
+
+Run a single test suite:
+
+```
+npm run test [TEST_FILE_PATH]
+```
+
 Check test coverage:
 
 ```
