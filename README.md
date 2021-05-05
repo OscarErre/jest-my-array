@@ -37,4 +37,27 @@ Is not allowed to use Array methods inside our MyArray custom methods.
 We can use our MyArray custom methods inside other methods.
 Javascript Object and String methods are allowed.
 
+### Testing:
+
+In the ```src/MyArray/tests``` folder Create a ```[method].test.js``` file for each method you want to test.
+
+Run tests:
+
+```
+npm run test
+```
+Check test coverage:
+
+```
+npm run test-coverage
+```
+Will find the coverage reports at ```./coverage/lcov-report/index.html```
+
+Run tests on debug mode (turn on Auto Attach at VSCode for a visual debugging)
+
+```
+npm run test-debug
+```
+
+
 Enjoy!
