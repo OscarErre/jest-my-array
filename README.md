@@ -51,7 +51,7 @@ Check test coverage:
 ```
 npm run test-coverage
 ```
-Will find the coverage reports at ```./coverage/lcov-report/index.html```
+Will find the coverage reports at ```coverage/lcov-report/index.html```
 
 Run tests on debug mode (turn on Auto Attach at VSCode for a visual debugging)
 
