@@ -1,6 +1,6 @@
-import  { shuffle } from './index';
+import  { shuffle } from '../methods/shuffle/index';
 
-import { MyArray } from '../../MyArray';
+import { MyArray } from '../MyArray';
 
 describe('0shuffle method', () => {
 

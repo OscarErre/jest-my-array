@@ -1,4 +1,4 @@
-import { MyArray } from "../../MyArray";
+import { MyArray } from "../MyArray";
 
 describe('push method', () => {
 

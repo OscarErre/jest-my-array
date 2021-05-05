@@ -1,5 +1,5 @@
-import { MyArray } from '../../MyArray';
-import { toString } from './index';
+import { MyArray } from '../MyArray';
+import { toString } from '../methods/toString/index';
 
 describe('toString method', () => {
 
